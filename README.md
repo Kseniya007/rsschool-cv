@@ -1,2 +1,2 @@
 https://github.com/Kseniya007/rsschool-cv.git
-dgfdhg
+https://Kseniya007.github.io/rsschool-cv/cv
