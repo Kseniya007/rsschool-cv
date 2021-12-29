@@ -13,14 +13,16 @@ My goal is to become a junior web developer and to work in the field of IT. For 
 * Figma
 * Photoshop
 ## Code Example
+```html
 function sum(a, b) {
   return a + b;
 }
 let result = sum(1, 2);
 alert( result );
+```
 No work experience
 ## Education and courses:
 * HTML/CSS (https://htmlacademy.ru/)
-* JavaScript (https://learn.javascript.ru/)
-By profession I am a civil engineer (hydrotechnical construction) - I graduated from BNTU, 5 years worked in engineering positions in the field of maintenance of buildings and structures
+* JavaScript (https://learn.javascript.ru/)<br>
+By profession I am a civil engineer (hydrotechnical construction). I graduated from BNTU, 5 years worked in engineering positions in the field of maintenance of buildings and structures
 ## English level (A1)
