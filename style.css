@@ -1,0 +1,43 @@
+.body {
+    font-family: Poppins, sans-serif;
+}
+
+.cv-container {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    
+}
+
+.photo {
+    border-radius: 50%;
+}
+
+.block_1 {
+    display: block;
+    width: 880px;
+    padding-left: 30px;
+}
+
+.block_2 {
+    display: block;
+    width: 880px;
+    padding-left: 30px;
+}
+
+h3 {
+    color: #FF0000;
+    font-style: italic;
+}
+
+li {
+    color: #FF4500;
+}
+
+li span {
+    color: #FFA500;
+}
+
+
+
+ 
